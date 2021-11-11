@@ -15,3 +15,4 @@ Version | Features
 ------------ | -------------
 0.1.3b | Beta phase / Added ticket ID gen
 0.2.0b | BIG one! Added Order UI!
+EoS | End of Service
